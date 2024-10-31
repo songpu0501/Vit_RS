@@ -1,0 +1,11 @@
+timm
+catalyst==20.09
+albumentations==1.1.0
+ttach
+numpy
+tqdm
+opencv-python
+scipy
+matplotlib
+einops
+addict
